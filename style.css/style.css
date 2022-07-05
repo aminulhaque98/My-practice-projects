@@ -13,13 +13,13 @@ span {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 50px;
 }
 
 #backgra {
     text-decoration: none;
     background-image: linear-gradient(to left, #FB984C, #FE4C2F);
-    padding: 25px 45px;
+    padding: 20px 45px;
     font-weight: 700;
     color: white;
     border-radius: 30px;
