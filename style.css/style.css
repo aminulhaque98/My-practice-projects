@@ -1,5 +1,5 @@
 body {
-    font-family: "poppins", "sans";
+    font-family: 'Poppins', sans-serif;
 }
 
 .helf-width {
@@ -23,4 +23,8 @@ h1 {
     font-weight: 700;
     color: white;
     border-radius: 30px;
+}
+
+section {
+    background-image: url(images/Group-8449.png);
 }
